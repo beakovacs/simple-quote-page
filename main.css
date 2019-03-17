@@ -40,15 +40,12 @@ body {
   color: darkblue;
   padding-left: 3em;
 }
+ul {
+  list-style-type: none;
+}
 li {
   color: blue;
   text-align: left;
   font-size: 1.8em;
   padding-left: 4em;
   }
-ul {
-  list-style-type: none;
-}
-li:hover {
-  color: darkcyan;
-}
